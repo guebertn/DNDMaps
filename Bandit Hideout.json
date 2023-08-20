@@ -1,0 +1,157 @@
+{
+  "name": "Bandit Hideout",
+  "width": 3150,
+  "height": 2250,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.3,
+  "lights": [
+    {
+      "x": 2589,
+      "y": 1286,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 2589,
+      "y": 1609,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFC140",
+      "tintAlpha": 0.0
+    }
+  ],
+  "walls": [
+    {
+      "c": [
+        528,
+        1688,
+        528,
+        560
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        528,
+        1688,
+        1978,
+        1688
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        528,
+        560,
+        2622,
+        560
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1978,
+        1688,
+        1978,
+        1527
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1978,
+        1688,
+        2622,
+        1688
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1978,
+        1527,
+        1978,
+        1366
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1978,
+        1366,
+        1978,
+        1205
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1978,
+        1205,
+        2622,
+        1205
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2622,
+        1688,
+        2622,
+        1205
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2622,
+        1205,
+        2622,
+        560
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}
