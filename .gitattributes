@@ -8,3 +8,11 @@ champ/stoneCircle.webp filter=lfs diff=lfs merge=lfs -text
 champ/Meetinghall.webp filter=lfs diff=lfs merge=lfs -text
 champ/apartment_floors.webp filter=lfs diff=lfs merge=lfs -text
 champ/castleWithShield.jpg filter=lfs diff=lfs merge=lfs -text
+gods/ProtectionValor.webp filter=lfs diff=lfs merge=lfs -text
+gods/justiceorder.webp filter=lfs diff=lfs merge=lfs -text
+gods/lifeHealing.webp filter=lfs diff=lfs merge=lfs -text
+gods/naturebalance.webp filter=lfs diff=lfs merge=lfs -text
+gods/sunLight.webp filter=lfs diff=lfs merge=lfs -text
+gods/wisdomknowledge.webp filter=lfs diff=lfs merge=lfs -text
+gods/[[:space:]]RavenQueen.webp filter=lfs diff=lfs merge=lfs -text
+gods/Kelemvor.webp filter=lfs diff=lfs merge=lfs -text
