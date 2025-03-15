@@ -1,0 +1,8 @@
+champ filter=lfs diff=lfs merge=lfs -text
+champ/bedroom.webp filter=lfs diff=lfs merge=lfs -text
+champ/castle.jpg filter=lfs diff=lfs merge=lfs -text
+champ/combatArena.webp filter=lfs diff=lfs merge=lfs -text
+champ/defenseWithShield.dd2vtt filter=lfs diff=lfs merge=lfs -text
+champ/map.dd2vtt filter=lfs diff=lfs merge=lfs -text
+champ/stoneCircle.webp filter=lfs diff=lfs merge=lfs -text
+champ/Meetinghall.webp filter=lfs diff=lfs merge=lfs -text
