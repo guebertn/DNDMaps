@@ -6,3 +6,5 @@ champ/defenseWithShield.dd2vtt filter=lfs diff=lfs merge=lfs -text
 champ/map.dd2vtt filter=lfs diff=lfs merge=lfs -text
 champ/stoneCircle.webp filter=lfs diff=lfs merge=lfs -text
 champ/Meetinghall.webp filter=lfs diff=lfs merge=lfs -text
+champ/apartment_floors.webp filter=lfs diff=lfs merge=lfs -text
+champ/castleWithShield.jpg filter=lfs diff=lfs merge=lfs -text
