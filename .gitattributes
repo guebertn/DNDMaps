@@ -27,3 +27,4 @@ pastThePortals/mountaintop.png filter=lfs diff=lfs merge=lfs -text
 pastThePortals/battlefield.png filter=lfs diff=lfs merge=lfs -text
 pastThePortals/feyForest.png filter=lfs diff=lfs merge=lfs -text
 pastThePortals/hell.png filter=lfs diff=lfs merge=lfs -text
+dreadlordsDomain/realFairyqueenGlade.png filter=lfs diff=lfs merge=lfs -text
