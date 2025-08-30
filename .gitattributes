@@ -30,3 +30,5 @@ pastThePortals/hell.png filter=lfs diff=lfs merge=lfs -text
 dreadlordsDomain/realFairyqueenGlade.png filter=lfs diff=lfs merge=lfs -text
 tokens/OwlWithoutSleigh.png filter=lfs diff=lfs merge=lfs -text
 tokens/owlWithSleigh.png filter=lfs diff=lfs merge=lfs -text
+dreadlordsDomain/demonicArena.png filter=lfs diff=lfs merge=lfs -text
+
